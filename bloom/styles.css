@@ -1,0 +1,166 @@
+.row1 .container{
+ background-color: black;
+ margin-bottom: 0px;
+ 
+ 
+}
+.row1 .container .logo{
+    
+    font-family: 'Lucida Handwriting';
+    font-weight: bold;
+    color: white;
+    float: left;
+    padding-left:80px;
+    padding-top: 10px;
+    font-size: 12px;
+}
+ul{
+    list-style-type: none;
+    padding-right: 80px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size:13px;
+}
+ul li{
+    float: right;
+    padding: 18px;
+    
+}
+.clear{
+    clear: both;
+}
+li:hover{
+    background-color: orange;
+}
+.row2 .container{
+    background-color: silver;
+    padding:80px; 
+ 
+}
+.row2 .container .c1{
+font-family:'sans-serif';
+
+}
+.row2 .container .c2{
+   float: right;
+   
+    
+}
+h2{
+    margin-bottom: 15px;
+}
+.butn{
+    width: 100px;
+    color: white;
+    background-color: orange;
+    text-align: center;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    
+}
+.row3 .container {
+    padding: 80px; 
+    
+}
+.row3 .container .box1{
+    float: left;
+    width:400px;
+    padding-left: 79px;
+
+}
+.box1 h3{
+    margin-bottom: 10px;
+}
+.box{
+    float: left;
+    width:400px;
+
+}
+.butn1{
+    width: 100px;
+    color: white;
+    background-color: orange;
+    text-align: center;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom:20px;
+}
+.box h3{
+    margin-bottom: 10px;
+}
+.v1{
+    width: 350px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.row4{
+    background-color:black;
+    width: 100%;
+    height: 300px;
+    padding: 80px;
+}
+.row4 .container .div1{
+    width:300px;
+    
+color: white;
+    float: left;
+    height: 300px;
+}
+.row4 .container .div2{
+    width: 400px;
+    color: white;
+    float: left;
+    height: 300px;
+    padding-left: 150px;
+
+}
+.row4 .container .div3{
+    width: 400px;
+    color: white;
+    float: left;
+    height: 300px;
+    padding-left: 150px;
+    
+}
+.row4 .div1 h3{
+    float:left;
+    margin-bottom: 4px;
+    
+}
+.row4 .div1 img{
+    float: left;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+.row4 .div1 h2{
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+.row4 .div2 h3{
+    margin-bottom: 20px;
+}
+.row4 .div2 p{
+    font-style: normal;
+    font-size: small;
+}
+.row4 .div3 h3{
+    margin-bottom: 20px;
+}
+span{
+    text-align: center;
+    font-weight: lighter;
+    font-size: medium;
+    padding-left: 10px;
+    
+}
+.row5{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
